@@ -2,21 +2,21 @@
 {
 	"name": "WhatsAppBot-MD",
 	"description": "Fully Costamisable Bot by, Alien-Alfa.",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"repository": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3",
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
 	"keywords": ["multi-device","WhatsApp Bot"],
     	"stack": "container",
 	"env": { 
     "OWNER": {
-            "description": "Pleas enter Number Of the Owner.",
+            "description": "Pleas enter Number Of the Owner."923252752761",
             "required": false,
-            "value": "0,447405935255"
+            "value": "923252752761"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
 	"AUTOREAD": {
             "description": "Autoread active or off",
@@ -56,7 +56,7 @@
     "PROFILE_IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3"
         },
     "URL_IMAGE": {
             "description": "Image For The Adplay (leave it if you Wish to use the default)",
@@ -79,12 +79,12 @@
             "value": "✩"
         },
     "WATERMARK": {
-            "description": "watermark for the bot (leave it if you Wish to use the default)",
+            "description": "watermark for the bot (ALI-KING)",
             "required": false,
             "value": "ＡＬＩＥＮ ＡＬＦＡ"
         },
     "BOTNAME": {
-            "description": "Name of The BOT (leave it if you Wish to use the default)",
+            "description": "Name of The BOT (ALI-KING)",
             "required": false,
             "value": "ＡＬＩＥＮ ＡＬＦＡ"
         },
@@ -101,12 +101,12 @@
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3"
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
@@ -114,9 +114,9 @@
             "value": "https://www.instagram.com/alienalfa/"
         },
     "NAME": {
-            "description": "Owner Name (leave it if you Wish to use the default)",
+            "description": "Owner Name (Hy I'm Ali-King)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "𝘼𝙇𝙄 King"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
@@ -142,7 +142,7 @@
             "value": "default"
         },
     "SESSION_ID": {
-            "description": "Add your Session ID here you got from Your Bot",
+            "description": "Y3gwMWdQNjE=",
             "required": true
         },
     "ZENS_API": {
@@ -151,13 +151,13 @@
             "value": "Alfa"
         },
 	"ALIVE_MESS": {
-            "description": "Set Alive Message. (leave it if you Wish to use the default)",
+            "description": "Set Alive Message. (Hy I'm online)",
             "required": false
         },
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3"
         },
     "LITE_MODE": {
             "description": "Use Fancy Templayes Rather Than Normal Messages",
